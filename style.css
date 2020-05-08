@@ -1,0 +1,403 @@
+
+body{
+  
+    background-color: rgb(241, 241, 241);
+    
+}
+
+.nav{
+    z-index: 999;
+   position: fixed;
+   width: 100%;
+   top: -2px;
+
+ 
+}
+
+.menu{
+    margin-left: 100px;
+}
+
+.nav-link{
+    margin-left: -750px;
+}
+
+li a:hover {
+    background-color: #316DC3;
+    border-radius: 10px;
+    font-family: sans-serif;
+    
+  }
+  .navbar-collapse{
+    float: right !important;
+    text-align: center !important;
+    margin-left: 30px ;
+    width: 100%;
+    position: static;
+    margin-top: auto;
+   
+    
+   
+}
+.navbar-brand {
+    margin-left: 100px;
+}
+.saylani-logo{
+    margin-left: 20px !important;
+    float: left !important;
+    
+}
+.Home{
+    margin-left: 0px;
+}
+.About{
+     margin-left: 3px;
+}
+.saylani-services{
+    margin-left: 3px;
+}
+.future{
+    margin-left: 3px;
+}
+.Media {
+    margin-left: 3px;
+}
+.News{
+    margin-left: 3px;
+}
+.donation{
+    margin-left: 3px;
+}
+ 
+.my-slider {
+    
+    margin-top: 20px !important;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 50px;
+    padding: 10px;
+
+
+}
+.slider1{
+    width:1100px;
+    height:500px;
+}
+
+.slider2{
+    width:1100px;
+    height:500px;
+}
+
+.slider3{
+    width:1100px;
+    height:500px;
+}
+.text-slider-right {
+    height: 20px;
+    background-color: #316DC3;
+    width: 100%;
+    margin-top: -40px;
+}
+.text-slider{
+    font-family: Impact; 
+    font-size: 13px;
+    color: black;
+    margin-top: 0px;
+    
+}
+
+h1 {
+    color: navy;
+    text-align: center;  
+    font-weight: bold;
+    font-size: 28.8px;
+    margin-top: 40px;
+    
+}
+.Theme {
+    color: green;
+}
+
+.Ti{
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+}
+p {
+    font-size: 15px ;
+    color: rgb(78, 78, 78);
+    
+}
+.cg {
+    background-color: blue;
+    color: white;
+    
+}
+.card {
+    background-color: blue;
+    border: none;
+    text-align: center;
+    margin-left: 25px;
+    width: 230px;
+    margin-top: 15px;
+}
+
+.icons {
+    margin-left: 90px;
+}
+.education {
+    width: 50px !important;
+    height: 50px !important;
+    margin-left: 90px ;
+
+}
+h2 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+h5{
+    font-weight: bold;
+}
+
+.monthly {
+    color: green;
+    font-style: italic;
+    font-size: 120% ;
+    font-weight: bolder !important;
+}
+
+
+
+.Services{
+    background-color: rgb(241, 241, 241);
+    width: 100%;
+    
+
+}
+
+.serve  {
+    background-color: white;
+    
+}
+.Sadqah {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+  width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+    
+}
+
+.Welfare {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+        margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+  
+  
+    
+}
+
+
+.Medical {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+}
+
+
+.Dastarkhuwan {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+  margin-right: -120px;
+} 
+
+.ROplant {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+    
+}
+
+
+.Education {
+    border: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 180px;
+    width: 280px;
+  background-color: white;
+  box-shadow: 5px 5px 10px 1px #777777;
+}
+
+
+.picture {
+    width: 60px;
+    margin-left: 60px;
+    margin-top: 40px;
+
+}
+
+.service-text{
+    color: navy;
+    margin-left: -25px;
+}
+
+.mission-project{
+    border-top: 1px solid gray;
+    margin-top: 40px ;
+}
+.resize{
+    padding:10px;
+}
+
+.mission{
+   background-color: white;
+    color: navy;
+    border:1px solid rgb(214, 214, 214);
+    height: 120%;
+    margin-top: 10px;
+    
+    
+}
+
+.mh{
+    font-weight: bolder;
+    font-size: 24px;
+    color: rgb(26, 26, 170) ;
+    font-weight: bold;
+    margin-top: 40px ;
+    margin-bottom: 1px solid black;
+}
+.mt {
+    font-weight: bolder;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.mi{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.gh {
+    margin-top: 40px;
+}
+.gallery-heading{
+    text-align: center;
+    margin-top: 20px;
+
+    
+}
+.potrait{
+    text-align: center;
+    width: 210px;
+    height: 150px;
+    padding: -2px;
+}
+.pic1:hover .potrait {
+    opacity: 0.4;
+}
+
+.pic2:hover .potrait {
+    opacity: 0.4;
+}
+
+.pic3:hover .potrait {
+    opacity: 0.4;
+}
+
+.pic4:hover .potrait {
+    opacity: 0.4;
+}
+
+.pic5:hover .potrait {
+    opacity: 0.4;
+}
+
+
+.main{
+    background-color: #25272E;
+    text-align: left;
+    width: 104%;
+}
+
+.contact-us {
+    margin-left: -20px;
+    font-size: 14px;
+    color:  rgb(241, 241, 241);
+    text-align: left;
+}
+.phone{
+    list-style-image: url('Images/phone.png');
+    
+}
+.email {
+    list-style-image: url('Images/email.png');
+}
+.globe {
+    list-style-image: url('Images/globe.png');
+}
+.pcolor {
+   color:  rgb(241, 241, 241);
+}
+.useful{
+    border-bottom: rgb(241, 241, 241);
+    margin-left: -20px;
+    
+}
+.green-underline{
+    color:green;
+    width: 60px ;
+    border-color: green;
+}
+.links{
+  
+   color: white;
+   margin-top: 25px;
+   font-size: 14px;
+
+} 
+.footer-copyright {
+    background-color: #316DD9;
+    height: auto;
+    width: 100%;
+    text-align: left;
+}
+.lead{
+    margin-left: 3px;
+    font-size: 11px;
+    text-align: left;
+    color: white;
+}
+
+.connect{
+    width: 180px;
+}
